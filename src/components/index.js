@@ -1,4 +1,4 @@
-import Navbar from "./Navbar";
+import Navbar from "./Navbar.jsx";
 import Billing from "./Billing";
 import CardDeal from "./CardDeal";
 import Business from "./Business";
@@ -6,7 +6,7 @@ import Clients from "./Clients";
 import CTA from "./CTA";
 import Stats from "./Stats";
 import Footer from "./Footer";
-import Testimonials from "./Testimonial";
+import Testimonials from "./Testimonials";
 import Hero from "./Hero";
 
 export {
@@ -18,6 +18,6 @@ export {
   CTA,
   Stats,
   Footer,
-  Testimonial,
+  Testimonials,
   Hero,
 };
